@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Amit7272
-- 👀 I’m interested in azure 
-- 🌱 I’m currently learning azure Admin
+- 👀 I’m interested in azure Cloud Platform
 - 💞️ I’m looking to collaborate on azure Admin Infra 
 - 📫 How to reach me ...adshinde7272@gmail.com
 
